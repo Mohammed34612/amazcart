@@ -5,7 +5,7 @@
 @else
 <link rel="stylesheet" href="{{asset(asset_path('backend/css/chat/chat_update.css'))}}" />
 @endif
-@endsection jyv ugv jy 
+@endsection
 @section('mainContent')
     <div class="chat d-flex flex-wrap">
         <div class="chat-left">
