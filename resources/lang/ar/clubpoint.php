@@ -1,0 +1,17 @@
+<?php return array (
+  'my_points' => 'نقاطي',
+  'Order_code' => 'رمز الطلب',
+  'point' => 'نقطة',
+  'wallet_money' => 'محفظة المال',
+  'converted_now' => 'تحويل الآن',
+  'exchange_rate' => 'سعر الصرف',
+  'pts' => 'نقاط',
+  'club_point' => 'كلوب بوينت',
+  'set_product_point' => 'تعيين نقطة المنتج',
+  'user_product_point' => 'نقطة منتج المستخدم',
+  'multiple' => 'عديد',
+  'Set Point' => 'نقطة التحديد',
+  'set_point' => 'نقطة التحديد',
+  'piint_convert_refund_date_over' => '(تاريخ تحويل المبلغ المدفوع انتهى)',
+  'total' => 'المجموع',
+);
